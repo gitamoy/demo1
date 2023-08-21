@@ -12,6 +12,7 @@ public class Demo1Application {
 		System.out.println("hello git!");
 		System.out.println("hello git!  hot-fix");
 		System.out.println("hello git!  master2");
+		System.out.println("hello git!  hot-fix2");
 	}
 
 }
